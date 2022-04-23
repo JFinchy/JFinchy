@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h1 align="center">Hi, I'm Jacob Finch</h1>
+<h1 align="center">Hi, I'm Jake Finch</h1>
 <h3 align="center">A full-stack developer by day, curious tech savant by night</h3>
 
 - 🌱 I’m currently learning **Rust, WASM, AWS, and Wherever the road takes me**
