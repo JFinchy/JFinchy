@@ -33,3 +33,10 @@
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
+
+<h3 align="left">Contribution snake:</h3>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JFinchy/JFinchy/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JFinchy/JFinchy/output/github-contribution-grid-snake.svg" />
+  <img alt="a snake eating my github contribution graph" src="https://raw.githubusercontent.com/JFinchy/JFinchy/output/github-contribution-grid-snake.svg" />
+</picture>
